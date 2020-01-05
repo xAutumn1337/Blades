@@ -1,7 +1,7 @@
 {
     "name": "blades",
     "version": "1.5",
-    "description": "Asset which replaces balls with blades, only for Spheromancers.",
+    "description": "Asset which replaces balls with blades, now for all classes!",
     "module": false,
     "ccmodDependencies": {}
 }
