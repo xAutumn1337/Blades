@@ -1,1 +1,7 @@
-{"name":"blades-v1","version":"1.0.0","description":"Asset which replaces balls with blades, only for Spheromancers.","module":false,"ccmodDependencies":{}}
+{
+    "name": "blades",
+    "version": "1.5",
+    "description": "Asset which replaces balls with blades, only for Spheromancers.",
+    "module": false,
+    "ccmodDependencies": {}
+}
